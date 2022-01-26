@@ -1,0 +1,16 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileupload.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node fileupload.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
